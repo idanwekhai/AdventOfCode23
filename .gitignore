@@ -1,4 +1,5 @@
 main.py
+input.txt
 poetry.lock
 replit.nix
 pyproject.toml
